@@ -2943,3 +2943,6 @@
 
 ### [2026-05-11]
 - secsi/dorks-eye updated to version 20260510
+
+### [2026-05-18]
+- secsi/sslscan updated to version 20260517
