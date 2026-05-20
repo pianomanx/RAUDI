@@ -2946,3 +2946,6 @@
 
 ### [2026-05-18]
 - secsi/sslscan updated to version 20260517
+
+### [2026-05-20]
+- secsi/impacket updated to version 0.13.1
