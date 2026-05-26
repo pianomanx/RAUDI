@@ -2949,3 +2949,6 @@
 
 ### [2026-05-20]
 - secsi/impacket updated to version 0.13.1
+
+### [2026-05-26]
+- secsi/dalfox updated to version 3.0.0
