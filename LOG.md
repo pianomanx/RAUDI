@@ -2952,3 +2952,6 @@
 
 ### [2026-05-26]
 - secsi/dalfox updated to version 3.0.0
+
+### [2026-05-27]
+- secsi/retire updated to version 5.4.3
