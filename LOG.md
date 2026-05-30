@@ -2958,3 +2958,7 @@
 
 ### [2026-05-28]
 - secsi/exiftool updated to version 13.59
+
+### [2026-05-30]
+- secsi/dorks-eye updated to version 20260529
+- secsi/nikto updated to version 20260529
