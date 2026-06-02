@@ -2962,3 +2962,6 @@
 ### [2026-05-30]
 - secsi/dorks-eye updated to version 20260529
 - secsi/nikto updated to version 20260529
+
+### [2026-06-02]
+- secsi/dalfox updated to version 3.0.1
