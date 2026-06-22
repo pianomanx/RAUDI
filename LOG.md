@@ -2972,3 +2972,6 @@
 
 ### [2026-06-15]
 - secsi/dalfox updated to version 3.1.0
+
+### [2026-06-22]
+- secsi/dalfox updated to version 3.1.1
