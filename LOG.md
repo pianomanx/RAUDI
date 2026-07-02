@@ -2978,3 +2978,6 @@
 
 ### [2026-06-28]
 - secsi/dalfox updated to version 3.1.2
+
+### [2026-07-02]
+- secsi/dorks-eye updated to version 20260701
